@@ -1,1 +1,7 @@
 
+Python
+SQL
+Machine Learning
+Pandas
+Data Analysis
+GitHub

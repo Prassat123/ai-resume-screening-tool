@@ -1,1 +1,6 @@
 
+Python
+SQL
+Machine Learning
+Communication
+GitHub
